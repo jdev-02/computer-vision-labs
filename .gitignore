@@ -1,0 +1,9 @@
+*.pt
+*.pth
+tiny-imagenet-200/
+runs/
+__pycache__/
+.ipynb_checkpoints/
+captures/
+lab_outputs/
+comp_vision_lab_outputs/
